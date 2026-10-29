@@ -1,0 +1,5 @@
+1001,Divya,SY,divya@example.com
+1002,Riya,SY,riya@example.com
+1003,Amit,TY,amit@example.com
+1004,Sneha,TY,sneha@example.com
+1005,Rahul,BE,rahul@example.com
