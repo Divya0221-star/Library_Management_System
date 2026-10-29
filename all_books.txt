@@ -1,0 +1,10 @@
+101,Let Us C,Yashavant Kanetkar,BPB Publication
+102,C Programming,Dennis Ritchie,BPB Publication
+103,Digital Electronics,R P Jain,McGraw Hill
+104,Analog Communication,Simon Haykin,Wiley
+105,Microprocessors,Ramesh Gaonkar,Penram
+106,Embedded Systems,Raj Kamal,McGraw Hill
+107,Computer Networks,Andrew Tanenbaum,Pearson
+108,Signals and Systems,S Palani,McGraw Hill
+109,Java Complete Reference,Herbert Schildt,McGraw Hill
+110,Digital Signal Processing,S Salivahanan,McGraw Hill
